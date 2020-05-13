@@ -1,5 +1,8 @@
 # lol-shop-fakepi
-Flask fake api for lol-shop
+Flask fake api for [lol-shop](https://lolshop.netlify.app/) project
+
+> [Front-end  GitHub repository](https://github.com/gab618/lol-shop)
+
 
 ## Base URL:
 
